@@ -8,4 +8,4 @@ the user's location and nearest city center
 the user's locaiton and the earth center
 the given location and the earth center
 
-\nTest cases are implemented in Java with Selenium, included in report.
+Test cases are implemented in Java with Selenium, included in report.

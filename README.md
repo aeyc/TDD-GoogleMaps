@@ -7,4 +7,5 @@ After that, with Haversine Formula, calculating distance between
 the user's location and nearest city center
 the user's locaiton and the earth center
 the given location and the earth center
-Test cases are implemented in Java with Selenium, included in report.
+
+\nTest cases are implemented in Java with Selenium, included in report.

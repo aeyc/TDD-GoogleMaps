@@ -1,4 +1,6 @@
 # TDD-GoogleMaps
+A responsive page which is developed with Test Driven Development (TDD).
+
 Main.java file for creating database for cities of Turkey, in dijkstra server.
 Google Maps API src file contains 
 responsive pages source code which are using Google Maps API to find location of user, 
